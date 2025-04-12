@@ -87,3 +87,6 @@ streamlit run app.py
 
 ## Contributing
 Contributions to improve NLTI CLAT Assistant are welcome! Feel free to submit pull requests or open issues to suggest improvements.
+
+## Demo Link
+https://nlti-clat-assistant.streamlit.app/
